@@ -236,4 +236,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ for the Google Gemini Hackathon*
+*Built with ❤️💜 for the Google Gemini Hackathon*
