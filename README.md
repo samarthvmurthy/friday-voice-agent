@@ -1,5 +1,5 @@
 # 🎙️ Friday — Voice-Controlled Browser Agent
-
+..
 > Say *"hey Friday"* and watch AI browse the web for you.
 
 Friday is a hands-free, wake-word-activated voice assistant that controls a real browser using **Google Gemini's multimodal vision and planning capabilities**. Just speak a task — Friday navigates, clicks, fills forms, and reports back when done.
